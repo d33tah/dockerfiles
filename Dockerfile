@@ -1,6 +1,4 @@
-FROM debian:latest
-
-MAINTAINER timegrid@pega.sh
+FROM debian:jessie
 
 ARG user
 ARG uid
